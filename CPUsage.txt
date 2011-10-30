@@ -1,0 +1,20 @@
+
+================================================CPUsage==================================================
+
+					   VERSION 1.0, 2011
+
+WARNING : Before you start using this software, make sure that you have read and fully understand the Disclaimer
+(can be found in Readme.txt).
+
+CPUsage is a small and simple program for monitoring the usage of the computer's CPU.
+The parameters that appear on the CPUsage main window are:
+
+	1 : Normal / Average CPU Usage : Indicates the usage of the computer's CPU. It represents two values:
+
+		      Normal CPU Usage : Single processor, the usage of the CPU is that one of
+					 the processor.
+
+		     Average CPU Usage : Multi - core, the usage of the CPU is the average of the number 
+					 of the CPU's detected.
+
+=========================================================================================================
